@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"math/big"
 
-	"github.com/alethio/web3-go/types"
+	"github.com/alethio-legacy/web3-go/types"
 )
 
 // ETHInterface defines the packages interface

@@ -7,8 +7,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/alethio/web3-go/ethrpc"
-	"github.com/alethio/web3-go/ethrpc/provider/httprpc"
+	"github.com/alethio-legacy/web3-go/ethrpc"
+	"github.com/alethio-legacy/web3-go/ethrpc/provider/httprpc"
 )
 
 type worker struct {

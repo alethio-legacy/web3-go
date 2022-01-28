@@ -1,6 +1,6 @@
 package httprpc
 
-import "github.com/alethio/web3-go/jsonrpc2"
+import "github.com/alethio-legacy/web3-go/jsonrpc2"
 
 // SyncLoader is a synchronous loader that makes one http request per RPC
 type SyncLoader struct {

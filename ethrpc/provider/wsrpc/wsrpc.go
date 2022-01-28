@@ -12,8 +12,8 @@ import (
 
 	"golang.org/x/time/rate"
 
-	"github.com/alethio/web3-go/etherr"
-	"github.com/alethio/web3-go/jsonrpc2"
+	"github.com/alethio-legacy/web3-go/etherr"
+	"github.com/alethio-legacy/web3-go/jsonrpc2"
 	"github.com/gorilla/websocket"
 	log "github.com/sirupsen/logrus"
 )
